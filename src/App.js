@@ -1,6 +1,6 @@
 import "./App.css";
 import React from "react";
-import logo from "./pic.png";
+
 
 function App() {
   const [formData, setFormData] = React.useState({
